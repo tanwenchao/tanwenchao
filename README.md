@@ -1,9 +1,3 @@
-<style>
-  .avatar {
-    border-radius: 999px;
-  }
-</style>
-
 <img
   src="https://avatars.githubusercontent.com/u/17673324?v=4"
   class="avatar"

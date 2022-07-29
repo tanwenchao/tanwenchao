@@ -1,6 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/17673324?v=4" style="width: 120px; height: 120px; border-radius: 50%"/>
+<img src="https://avatars.githubusercontent.com/u/17673324?v=4" class="avatar" />
 
 # Hi, this is tanwenchao 👋 ![](https://komarev.com/ghpvc/?username=tanwenchao&color=blueviolet)
+
+![](https://img.shields.io/badge/-Front%20end%20development-brightgreen)
+
+## Introduction
 
 - :name_badge: `name:` tanwenchao
 - :heart: `hobby:` hiphop 二次元
@@ -11,6 +15,17 @@
 - :open_book: `site:` [tanwenchao.com](http://tanwenchao.com/)
 - :rocket: `slogan:` 高龄程序员，擅长linux windows centos ubuntu的开机和重启
 
+## Stars
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanwenchao&show_icons=true&theme=synthwave)
 
+
+## Trophy
 ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+
+<style>
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+</style>

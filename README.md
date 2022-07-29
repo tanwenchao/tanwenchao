@@ -1,12 +1,18 @@
+<style>
+  .avatar {
+    border-radius: 999px;
+  }
+</style>
+
 <img
   src="https://avatars.githubusercontent.com/u/17673324?v=4"
   class="avatar"
-  style="width: 80px; height: 80px; border-radius: 9999px;"
+  style="width: 120px; height: 120px; border-radius: 9999px;"
 />
 
 # Hi, this is tanwenchao 👋 ![](https://komarev.com/ghpvc/?username=tanwenchao&color=blueviolet)
 
-![](https://img.shields.io/badge/-Front%20end%20development-brightgreen)
+![](https://img.shields.io/badge/-Front%20end%20development-%238631d5)
 
 ## Introduction
 

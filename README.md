@@ -1,4 +1,8 @@
-<img src="https://avatars.githubusercontent.com/u/17673324?v=4" class="avatar" />
+<img
+  src="https://avatars.githubusercontent.com/u/17673324?v=4"
+  class="avatar"
+  style="width: 80px; height: 80px; border-radius: 9999px;"
+/>
 
 # Hi, this is tanwenchao 👋 ![](https://komarev.com/ghpvc/?username=tanwenchao&color=blueviolet)
 
@@ -21,11 +25,3 @@
 
 ## Trophy
 ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
-
-<style>
-.avatar {
-  width: 80px;
-  height: 80px;
-  border-radius: 9999px;
-}
-</style>

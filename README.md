@@ -24,8 +24,8 @@
 
 <style>
 .avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  border-radius: 9999px;
 }
 </style>

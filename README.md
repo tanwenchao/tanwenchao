@@ -24,4 +24,4 @@
 
 
 ## Trophy
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=8)
